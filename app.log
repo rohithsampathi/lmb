@@ -1,0 +1,250 @@
+2024-11-06 15:22:41,721 - main - INFO - Reading CSV file...
+2024-11-06 15:22:42,061 - main - INFO - Cleaning CSV data...
+2024-11-06 15:22:42,070 - cache - INFO - Cache cleared
+2024-11-06 15:22:42,070 - main - INFO - Cleaned data saved to /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:22:42,086 - main - INFO - Fetching partner list...
+2024-11-06 15:22:42,089 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:22:42,090 - main - INFO - Found 2 partners
+2024-11-06 15:23:20,183 - main - ERROR - Error generating charts: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2024-11-06 15:27:38,887 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:27:38,889 - main - ERROR - Error generating charts: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2024-11-06 15:28:19,862 - main - INFO - Fetching partner list...
+2024-11-06 15:28:19,866 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:28:19,866 - main - INFO - Found 2 partners
+2024-11-06 15:28:19,874 - main - ERROR - Error generating charts: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2024-11-06 15:29:39,360 - main - INFO - Fetching partner list...
+2024-11-06 15:29:39,364 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:29:39,364 - main - INFO - Found 2 partners
+2024-11-06 15:36:10,208 - main - INFO - Fetching partner list...
+2024-11-06 15:36:10,213 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:36:10,214 - main - INFO - Found 2 partners
+2024-11-06 15:43:01,022 - main - INFO - Reading CSV file...
+2024-11-06 15:43:01,330 - main - INFO - Cleaning CSV data...
+2024-11-06 15:43:01,342 - cache - INFO - Cache cleared
+2024-11-06 15:43:01,342 - main - INFO - Cleaned data saved to /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:43:04,880 - main - INFO - Fetching partner list...
+2024-11-06 15:43:04,883 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:43:04,883 - main - INFO - Found 2 partners
+2024-11-06 15:54:51,128 - main - INFO - Fetching partner list...
+2024-11-06 15:54:51,132 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 15:54:51,133 - main - INFO - Found 2 partners
+2024-11-06 16:00:30,773 - main - INFO - Fetching partner list...
+2024-11-06 16:00:30,777 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 16:00:30,777 - main - INFO - Found 2 partners
+2024-11-06 16:01:32,001 - charts - WARNING - No data available for Locations chart
+2024-11-06 16:01:32,003 - charts - WARNING - No data available for Primary chart
+2024-11-06 16:01:32,005 - charts - WARNING - No data available for Secondary chart
+2024-11-06 16:01:32,006 - charts - WARNING - No data available for Ad chart
+2024-11-06 16:01:32,007 - charts - WARNING - No AD data available for analysis
+2024-11-06 16:11:57,622 - main - INFO - Fetching partner list...
+2024-11-06 16:11:57,626 - cache - INFO - Cleaned data loaded successfully from /Users/skyg/Desktop/Code/ai/mod1/data/cleaned/cleaned_data.csv
+2024-11-06 16:11:57,626 - main - INFO - Found 2 partners
+2024-11-06 16:23:38,712 - main - INFO - Fetching partner list...
+2024-11-06 16:23:38,713 - cache - ERROR - Cleaned data file or general data file not found
+2024-11-06 16:23:38,713 - cache - ERROR - Error loading data: Cleaned data file not found. Please process the CSV first.
+2024-11-06 16:23:38,713 - main - ERROR - Error in get_partner_list: Cleaned data file not found. Please process the CSV first.
+2024-11-06 16:23:40,765 - main - INFO - Reading CSV file...
+2024-11-06 16:23:41,087 - main - INFO - Cleaning CSV data...
+2024-11-06 16:23:41,148 - cache - INFO - Cache cleared
+2024-11-06 16:23:41,148 - main - INFO - Cleaned data and general data saved successfully
+2024-11-06 16:25:21,122 - main - INFO - Fetching partner list...
+2024-11-06 16:25:21,141 - cache - INFO - Cleaned data and general data loaded successfully
+2024-11-06 16:25:21,142 - main - INFO - Found 2 partners
+2024-11-06 16:31:54,073 - main - INFO - Fetching partner list...
+2024-11-06 16:31:54,073 - main - INFO - Found 2 partners
+2024-11-06 16:34:02,159 - main - INFO - Fetching partner list...
+2024-11-06 16:34:02,159 - cache - ERROR - Data files not found
+2024-11-06 16:34:02,159 - cache - ERROR - Error loading data: Data files not found. Please process the CSV first.
+2024-11-06 16:34:02,159 - main - ERROR - Error in get_partner_list: Data files not found. Please process the CSV first.
+2024-11-06 16:34:15,581 - main - INFO - Reading CSV file...
+2024-11-06 16:34:15,885 - main - INFO - Cleaning CSV data...
+2024-11-06 16:34:15,941 - cache - INFO - Cache cleared
+2024-11-06 16:34:15,941 - main - INFO - Cleaned data saved successfully
+2024-11-06 16:34:15,945 - main - INFO - Fetching partner list...
+2024-11-06 16:34:15,961 - cache - INFO - Data loaded successfully
+2024-11-06 16:34:15,961 - main - INFO - Found 2 partners
+2024-11-06 16:39:44,493 - main - INFO - Fetching partner list...
+2024-11-06 16:39:44,500 - cache - WARNING - Attributed data file for Locations not found
+2024-11-06 16:39:44,500 - cache - WARNING - Attributed data file for Primary not found
+2024-11-06 16:39:44,500 - cache - WARNING - Attributed data file for Secondary not found
+2024-11-06 16:39:44,500 - cache - INFO - Data loaded successfully
+2024-11-06 16:39:44,501 - main - INFO - Found 2 partners
+2024-11-06 16:39:44,509 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 16:39:44,509 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 16:39:44,509 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 16:39:44,509 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 16:39:52,308 - main - INFO - Reading CSV file...
+2024-11-06 16:39:52,612 - main - INFO - Cleaning CSV data...
+2024-11-06 16:39:52,628 - cache - INFO - Cache cleared
+2024-11-06 16:39:52,628 - main - INFO - Cleaned data saved successfully
+2024-11-06 16:39:52,631 - main - INFO - Fetching partner list...
+2024-11-06 16:39:52,634 - cache - INFO - Data loaded successfully
+2024-11-06 16:39:52,634 - main - INFO - Found 2 partners
+2024-11-06 16:39:52,676 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 16:41:10,066 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 16:41:10,066 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 16:41:10,066 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 16:41:10,066 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 16:43:08,799 - main - INFO - Fetching partner list...
+2024-11-06 16:43:08,805 - cache - INFO - Data loaded successfully
+2024-11-06 16:43:08,805 - main - INFO - Found 2 partners
+2024-11-06 16:43:08,992 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 16:43:55,566 - main - INFO - Reading CSV file...
+2024-11-06 16:43:55,867 - main - INFO - Cleaning CSV data...
+2024-11-06 16:43:55,895 - cache - INFO - Cache cleared
+2024-11-06 16:43:55,895 - main - INFO - Cleaned data saved successfully
+2024-11-06 16:43:55,898 - main - INFO - Fetching partner list...
+2024-11-06 16:43:55,906 - cache - INFO - Data loaded successfully
+2024-11-06 16:43:55,907 - main - INFO - Found 2 partners
+2024-11-06 16:43:55,947 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 16:44:02,063 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 16:44:02,063 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 16:44:02,063 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 16:44:02,063 - charts - WARNING - No attributed data available for Ad chart
+2024-11-06 17:02:43,068 - main - INFO - Fetching partner list...
+2024-11-06 17:02:43,085 - cache - INFO - Data loaded successfully
+2024-11-06 17:02:43,085 - main - INFO - Found 2 partners
+2024-11-06 17:04:34,456 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:04:34,457 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:04:34,457 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:07:31,792 - main - INFO - Fetching partner list...
+2024-11-06 17:07:31,806 - cache - INFO - Data loaded successfully
+2024-11-06 17:07:31,806 - main - INFO - Found 2 partners
+2024-11-06 17:08:29,461 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:08:29,462 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:08:29,462 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:08:45,796 - main - INFO - Reading CSV file...
+2024-11-06 17:08:46,098 - main - INFO - Cleaning CSV data...
+2024-11-06 17:08:46,117 - cache - INFO - Cache cleared
+2024-11-06 17:08:46,117 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:08:46,120 - main - INFO - Fetching partner list...
+2024-11-06 17:08:46,124 - cache - INFO - Data loaded successfully
+2024-11-06 17:08:46,124 - main - INFO - Found 2 partners
+2024-11-06 17:08:51,740 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:08:51,740 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:08:51,740 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:11:38,711 - main - INFO - Fetching partner list...
+2024-11-06 17:11:38,718 - cache - INFO - Data loaded successfully
+2024-11-06 17:11:38,718 - main - INFO - Found 2 partners
+2024-11-06 17:11:38,727 - main - ERROR - Error generating charts: 'ChartGenerator' object has no attribute 'generate_top_entities_chart'
+2024-11-06 17:11:55,573 - main - INFO - Reading CSV file...
+2024-11-06 17:11:55,872 - main - INFO - Cleaning CSV data...
+2024-11-06 17:11:55,892 - cache - INFO - Cache cleared
+2024-11-06 17:11:55,892 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:11:55,896 - main - INFO - Fetching partner list...
+2024-11-06 17:11:55,899 - cache - INFO - Data loaded successfully
+2024-11-06 17:11:55,899 - main - INFO - Found 2 partners
+2024-11-06 17:11:55,906 - main - ERROR - Error generating charts: 'ChartGenerator' object has no attribute 'generate_top_entities_chart'
+2024-11-06 17:12:32,234 - main - INFO - Reading CSV file...
+2024-11-06 17:12:32,538 - main - INFO - Cleaning CSV data...
+2024-11-06 17:12:32,557 - cache - INFO - Cache cleared
+2024-11-06 17:12:32,557 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:12:32,561 - main - INFO - Fetching partner list...
+2024-11-06 17:12:32,565 - cache - INFO - Data loaded successfully
+2024-11-06 17:12:32,565 - main - INFO - Found 2 partners
+2024-11-06 17:12:32,573 - main - ERROR - Error generating charts: 'ChartGenerator' object has no attribute 'generate_top_entities_chart'
+2024-11-06 17:15:33,915 - main - INFO - Fetching partner list...
+2024-11-06 17:15:33,921 - cache - INFO - Data loaded successfully
+2024-11-06 17:15:33,922 - main - INFO - Found 2 partners
+2024-11-06 17:15:33,930 - main - ERROR - Error generating charts: 'ChartGenerator' object has no attribute 'generate_top_entities_chart'
+2024-11-06 17:17:43,954 - main - INFO - Reading CSV file...
+2024-11-06 17:17:44,261 - main - INFO - Cleaning CSV data...
+2024-11-06 17:17:44,282 - cache - INFO - Cache cleared
+2024-11-06 17:17:44,283 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:17:44,286 - main - INFO - Fetching partner list...
+2024-11-06 17:17:44,290 - cache - INFO - Data loaded successfully
+2024-11-06 17:17:44,290 - main - INFO - Found 2 partners
+2024-11-06 17:25:16,022 - main - INFO - Reading CSV file...
+2024-11-06 17:25:16,332 - main - INFO - Cleaning CSV data...
+2024-11-06 17:25:16,354 - cache - INFO - Cache cleared
+2024-11-06 17:25:16,354 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:25:16,357 - main - INFO - Fetching partner list...
+2024-11-06 17:25:16,361 - cache - INFO - Data loaded successfully
+2024-11-06 17:25:16,362 - main - INFO - Found 2 partners
+2024-11-06 17:31:55,485 - main - INFO - Fetching partner list...
+2024-11-06 17:31:55,495 - cache - INFO - Data loaded successfully
+2024-11-06 17:31:55,495 - main - INFO - Found 2 partners
+2024-11-06 17:34:34,232 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:34:34,233 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:34:34,233 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:35:05,836 - main - INFO - Reading CSV file...
+2024-11-06 17:35:06,135 - main - INFO - Cleaning CSV data...
+2024-11-06 17:35:06,153 - cache - INFO - Cache cleared
+2024-11-06 17:35:06,153 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:35:06,156 - main - INFO - Fetching partner list...
+2024-11-06 17:35:06,160 - cache - INFO - Data loaded successfully
+2024-11-06 17:35:06,160 - main - INFO - Found 2 partners
+2024-11-06 17:35:07,846 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:35:07,846 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:35:07,846 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:35:35,109 - main - INFO - Reading CSV file...
+2024-11-06 17:35:35,411 - main - INFO - Cleaning CSV data...
+2024-11-06 17:35:35,427 - cache - INFO - Cache cleared
+2024-11-06 17:35:35,427 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:35:35,430 - main - INFO - Fetching partner list...
+2024-11-06 17:35:35,434 - cache - INFO - Data loaded successfully
+2024-11-06 17:35:35,434 - main - INFO - Found 2 partners
+2024-11-06 17:43:11,598 - main - INFO - Reading CSV file...
+2024-11-06 17:43:11,909 - main - INFO - Cleaning CSV data...
+2024-11-06 17:43:11,930 - cache - INFO - Cache cleared
+2024-11-06 17:43:11,930 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:43:11,934 - main - INFO - Fetching partner list...
+2024-11-06 17:43:11,938 - cache - INFO - Data loaded successfully
+2024-11-06 17:43:11,938 - main - INFO - Found 2 partners
+2024-11-06 17:44:09,436 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 17:44:09,436 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 17:44:09,436 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-06 17:52:03,448 - main - INFO - Fetching partner list...
+2024-11-06 17:52:03,456 - cache - INFO - Data loaded successfully
+2024-11-06 17:52:03,456 - main - INFO - Found 2 partners
+2024-11-06 17:52:11,823 - main - INFO - Reading CSV file...
+2024-11-06 17:52:12,135 - main - INFO - Cleaning CSV data...
+2024-11-06 17:52:12,154 - cache - INFO - Cache cleared
+2024-11-06 17:52:12,154 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:52:12,157 - main - INFO - Fetching partner list...
+2024-11-06 17:52:12,161 - cache - INFO - Data loaded successfully
+2024-11-06 17:52:12,161 - main - INFO - Found 2 partners
+2024-11-06 17:53:03,518 - main - INFO - Fetching partner list...
+2024-11-06 17:53:03,526 - cache - INFO - Data loaded successfully
+2024-11-06 17:53:03,526 - main - INFO - Found 2 partners
+2024-11-06 17:53:16,059 - main - INFO - Reading CSV file...
+2024-11-06 17:53:16,363 - main - INFO - Cleaning CSV data...
+2024-11-06 17:53:16,381 - cache - INFO - Cache cleared
+2024-11-06 17:53:16,381 - main - INFO - Cleaned data saved successfully
+2024-11-06 17:53:16,385 - main - INFO - Fetching partner list...
+2024-11-06 17:53:16,388 - cache - INFO - Data loaded successfully
+2024-11-06 17:53:16,388 - main - INFO - Found 2 partners
+2024-11-06 18:14:42,283 - main - INFO - Reading CSV file...
+2024-11-06 18:14:42,592 - main - INFO - Cleaning CSV data...
+2024-11-06 18:14:42,611 - cache - INFO - Cache cleared
+2024-11-06 18:14:42,611 - main - INFO - Cleaned data saved successfully
+2024-11-06 18:14:42,615 - main - INFO - Fetching partner list...
+2024-11-06 18:14:42,619 - cache - INFO - Data loaded successfully
+2024-11-06 18:14:42,619 - main - INFO - Found 2 partners
+2024-11-06 19:29:38,214 - main - ERROR - Failed to import MarketingIntelligence: No module named 'sklearn'
+2024-11-06 19:29:41,678 - main - ERROR - Failed to import MarketingIntelligence: No module named 'sklearn'
+2024-11-06 19:30:18,540 - main - ERROR - Failed to import MarketingIntelligence: No module named 'sklearn'
+2024-11-06 20:13:38,956 - main - INFO - Fetching partner list...
+2024-11-06 20:13:38,970 - cache - INFO - Data loaded successfully
+2024-11-06 20:13:38,970 - main - INFO - Found 2 partners
+2024-11-06 20:25:38,967 - cache - INFO - Data loaded successfully
+2024-11-06 20:27:29,297 - cache - INFO - Data loaded successfully
+2024-11-06 20:36:06,771 - cache - INFO - Data loaded successfully
+2024-11-06 20:36:06,779 - intelligence.main - INFO - Models updated successfully
+2024-11-06 20:36:43,598 - charts - WARNING - No attributed data available for Locations chart
+2024-11-06 20:36:43,599 - charts - WARNING - No attributed data available for Primary chart
+2024-11-06 20:36:43,599 - charts - WARNING - No attributed data available for Secondary chart
+2024-11-07 07:52:15,693 - cache - INFO - Data loaded successfully
+2024-11-07 07:52:15,700 - intelligence.main - INFO - Models updated successfully
+2024-11-07 07:59:42,988 - cache - INFO - Data loaded successfully
+2024-11-07 08:03:07,210 - main - INFO - Reading CSV file...
+2024-11-07 08:03:07,533 - main - INFO - Cleaning CSV data...
+2024-11-07 08:03:07,552 - cache - INFO - Cache cleared
+2024-11-07 08:10:45,802 - main - ERROR - Error in process_csv: type object 'DataCache' has no attribute 'instance'
+2024-11-07 08:12:15,693 - main - ERROR - Error processing CSV: 'utf-8' codec can't decode byte 0xd1 in position 393: invalid continuation byte
+2024-11-07 08:14:23,352 - main - ERROR - Error processing CSV: name 'CSVProcessor' is not defined
+2024-11-07 08:15:01,801 - main - ERROR - Error processing CSV: name 'CSVProcessor' is not defined
+2024-11-07 08:16:24,536 - cleaning_utils - INFO - Processing file: /Users/skyg/Desktop/Code/ai/mod1/data/uploads/martech.csv
+2024-11-07 08:16:24,865 - cache - INFO - Cache cleared
+2024-11-07 08:33:34,604 - cleaning_utils - INFO - Processing file: /Users/skyg/Desktop/Code/ai/mod1/data/uploads/martech.csv
+2024-11-07 08:33:34,937 - cache - INFO - Cache cleared
